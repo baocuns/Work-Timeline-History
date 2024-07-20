@@ -11,9 +11,8 @@
 ### 💻 Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/ASP.NET-passing?style=plastic&logo=.NET&color=blueviolet)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/ASP.NET Web Forms-passing?style=plastic&logo=.NET&color=blueviolet)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-- JavaScript, ASP.NET Web Forms
 
 ### Timeline
 - 03/06/2024: Start
