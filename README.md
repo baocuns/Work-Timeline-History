@@ -1,12 +1,15 @@
-# Công ty TNHH Nissei Electric Việt Nam
+# Nissei Electric Vietnam Co., Ltd
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Vị trí: Software Developer
-## Thời gian làm việc: Tháng 03/06/2024 - Comming
+## Position: Software Developer
+## Working time: June 3, 2024 - Comming
 
-### Các dự án và nhiệm vụ chính:
-- Phát triển và bảo trì các ứng dụng web sử dụng ASP.NET Web Forms, JavaScript, HTML, CSS.
-- Thiết kế và phát triển SQL, Stored Procedure.
-- Tham gia vào quy trình Agile/Scrum để quản lý dự án.
+### 🎋 Main projects and tasks:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+- Develop and maintain web applications using ASP.NET Web Forms, JavaScript, HTML, CSS.
+- Design and develop SQL, Stored Procedures.
+- Participate in Agile/Scrum process for project management.
 
 ### 💻 Tech Stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -15,4 +18,6 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Timeline
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 03/06/2024: Start
