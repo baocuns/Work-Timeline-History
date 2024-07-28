@@ -19,4 +19,6 @@
 ### ⛷️ Timeline
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 03/06/2024: Start
+- 03/06/2024: Start.
+- 06/06/2024: Participate and learn about the company's employee management projects.
+- 10/06/2024: Develop additional functions for employee management and training, and take online tests.
